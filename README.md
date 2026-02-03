@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @tansheetalitaj
-- 👀 I’m interested in startup ideas
-- 🌱 I’m currently learning Laravel and Python
-- 💞️ I’m looking to collaborate on startup ideas
-- 📫 How to reach me? just email me at "tansheetalitaj@gmail.com".
+Senior Backend Software Engineer with a focus on backend architecture, APIs, and cloud-based systems.
+
+This GitHub contains selected projects related to:
+- Backend frameworks and system design
+- API-driven and service-oriented architectures
+- PHP and Node.js backend development
+
+The repositories here represent experimentation, framework-level exploration, and supporting work alongside professional engineering experience.
 
 <!---
 tansheetalitaj/tansheetalitaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
