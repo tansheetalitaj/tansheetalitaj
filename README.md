@@ -1,11 +1,14 @@
-Senior Backend Software Engineer with a focus on backend architecture, APIs, and cloud-based systems.
+Senior Backend Software Engineer with 9+ years of commercial experience building production backend systems, REST APIs, cloud-based platforms, and service-oriented architectures.
 
-This GitHub contains selected projects related to:
-- Backend frameworks and system design
-- API-driven and service-oriented architectures
-- PHP and Node.js backend development
+This GitHub highlights selected projects related to:
 
-The repositories here represent experimentation, framework-level exploration, and supporting work alongside professional engineering experience.
+* PHP backend frameworks and system design
+* REST API design and backend service architecture
+* Python-based computer vision and applied AI pipelines
+* Node.js and cloud/backend engineering concepts
+
+These repositories represent practical experimentation, framework-level thinking, and supporting work alongside professional backend engineering experience.
+
 
 <!---
 tansheetalitaj/tansheetalitaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
